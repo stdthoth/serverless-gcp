@@ -1,4 +1,4 @@
-module github.com/ichthoth/prod-api
+module github.com/stdthoth/prod-api
 
 go 1.18
 
